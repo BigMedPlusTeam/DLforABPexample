@@ -1,5 +1,5 @@
 ## (Toy examples) Deep Learning and Big Data for Healthcare: A Double Review for Critical Beginners 
-Paper in press (Applied Sciences Journal).
+Appl. Sci. 2019, 9(11), 2331; https://doi.org/10.3390/app9112331
 
 ### Description
 Some toy examples have been developed to help the beginners to start with some introductory
